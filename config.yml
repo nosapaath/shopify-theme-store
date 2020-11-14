@@ -3,4 +3,6 @@ development:
   theme_id: "115652034730"
   store: jungleflorist.myshopify.com
   ignore_files:
-    - settings_data.json
+    - config/settings_data.json
+    - "*.swp"
+    - "*~"
