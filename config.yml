@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: "115652034730"
+  store: jungleflorist.myshopify.com
+  ignore_files:
+    - settings_data.json
